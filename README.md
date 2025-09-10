@@ -11,6 +11,7 @@
 ![Android](https://img.shields.io/badge/Android-15-34A853?logo=android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-12-A81D33?logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04_LTS-E95420?logo=ubuntu&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-25.05-5277C3?logo=nixos&logoColor=white)
 
 ### 使用设备
 
