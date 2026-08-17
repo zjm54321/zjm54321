@@ -8,4 +8,4 @@
 ![Android](https://img.shields.io/badge/Android-16-34A853?logo=android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-12-A81D33?logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04_LTS-E95420?logo=ubuntu&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-25.11-5277C3?logo=nixos&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-26.11-5277C3?logo=nixos&logoColor=white)
